@@ -17,7 +17,7 @@ Contents:
 
 ```
 FROM richardkovacs/angular-unittest
-````
+```
 
 Available on the Docker Hub: [angular-unittest](https://hub.docker.com/r/richardkovacs/angular-unittest)
 
