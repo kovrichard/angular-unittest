@@ -10,7 +10,7 @@ Contents:
 
 ## Supported tags
 
-- `15.0` for Angular CLI version 15
+- [`15.0`](https://github.com/kovrichard/angular-unittest/tree/15.0) for Angular CLI version 15
 
 ## How to use this image
 
