@@ -20,3 +20,11 @@ FROM richardkovacs/angular-unittest
 ````
 
 Available on the Docker Hub: [angular-unittest](https://hub.docker.com/r/richardkovacs/angular-unittest)
+
+## License
+
+This repository is licensed under the MIT license.
+
+However, each software installed in the image has its own license.
+
+It is the image user's responsibility to ensure that any use of this image complies with any relevant licenses.
